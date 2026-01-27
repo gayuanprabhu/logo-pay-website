@@ -34,4 +34,4 @@ This project was built to practice:
 Beginner-level project (actively improving)
 
 ## Author
-Gayatri Anil Prabhu
+Gayatri Anil Prabhu 
